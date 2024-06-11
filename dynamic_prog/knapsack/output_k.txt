@@ -1,0 +1,2 @@
+The items picked are: 4 2 
+The max value obtained is 90

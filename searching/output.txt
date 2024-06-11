@@ -1,0 +1,5 @@
+using linear search the element is found at index: 3
+using binary search the element is found at index: 5
+using ternery search the element is found at index: 5
+Programm ended!
+Have a nice day

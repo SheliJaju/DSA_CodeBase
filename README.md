@@ -15,3 +15,8 @@ Welcome to my Algorithms_CodeBase repository! This consists of a wide range of a
 - **Quick sort**
     - **First element as pivot**
     - **Last element as pivot**
+
+## 2.Searching Algorithms:
+- **Binary Search**
+- **Linear Search**
+- **Ternery Search**

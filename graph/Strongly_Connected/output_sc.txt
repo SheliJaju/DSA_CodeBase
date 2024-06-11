@@ -1,0 +1,7 @@
+1->2->3->4->8->7->6->5->
+
+The strongly connected components are:
+1->5->2->
+3->4->
+7->6->
+8->

@@ -1,0 +1,5 @@
+The activity selected are: 
+3 timing :- 1-4
+4 timing :- 5-7
+8 timing :- 8-12
+1 timing :- 12-14

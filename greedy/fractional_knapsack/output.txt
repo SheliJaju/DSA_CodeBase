@@ -1,0 +1,4 @@
+item no 4 picked as a whole 
+item no 2 picked as a whole 
+item no 3 picked as a fraction
+The maximum value obtained is 105.000000

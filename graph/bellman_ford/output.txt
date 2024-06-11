@@ -1,0 +1,4 @@
+The shortest distance to all vertices measured from vertex 1 are:
+0 2 4 16 7 
+The shortest path is to all the vertices is:
+3 5 5 1 

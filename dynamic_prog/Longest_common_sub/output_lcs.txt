@@ -1,0 +1,2 @@
+The common items are : 2 1 4 2 
+The length of longest common subsequemce is : 4

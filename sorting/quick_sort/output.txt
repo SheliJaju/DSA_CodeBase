@@ -1,0 +1,31 @@
+The sorted array using quick sort with pivot at random is:
+the array after 1 step is:
+5 2 6 19 12 11 22 9 74 80 55 33 44 89 21 45 33 90 11 23 
+the array after 2 step is:
+2 5 
+the array after 3 step is:
+19 12 11 22 9 89 33 44 21 45 33 11 23 55 90 80 74 
+the array after 4 step is:
+19 12 11 22 9 33 21 11 23 33 45 44 89 
+the array after 5 step is:
+9 12 11 22 19 33 21 11 23 
+the array after 6 step is:
+22 11 11 19 33 21 12 23 
+the array after 7 step is:
+22 11 
+the array after 8 step is:
+12 33 21 19 23 
+the array after 9 step is:
+21 19 23 33 
+the array after 10 step is:
+19 21 23 
+the array after 11 step is:
+21 23 
+the array after 12 step is:
+45 44 55 
+the array after 13 step is:
+45 44 55 
+the array after 14 step is:
+74 90 80 
+2 5 6 9 22 11 11 12 19 21 23 33 33 45 44 55 89 74 90 80 
+Program ended ! Have a nice day!
